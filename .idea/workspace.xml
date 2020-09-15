@@ -28,6 +28,11 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\exelprototype" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -39,7 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598963485510</updated>
       <workItem from="1598963487223" duration="284000" />
-      <workItem from="1600083667917" duration="599000" />
+      <workItem from="1600083667917" duration="2411000" />
     </task>
     <servers />
   </component>
