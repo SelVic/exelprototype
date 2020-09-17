@@ -15,10 +15,6 @@
 // if(a === undefined)
 //     console.log(true)
 
-// obj1 ={name: "Petya1", job:23}
-// obj2 = {name: "Petya", age: 23}
-// let a = {...obj1,...obj2}
-// console.log(a)
 
 // const a = [1,2,3,4,5,6,7,8,9,0]
 // //
@@ -36,9 +32,9 @@
 // b.join(' ')
 // console.log(b)
 
-const promise = new Promise((resolve, reject) => setTimeout(()=> {
-    console.log(1);
-    reject("2");
-}, 1000)
-);
-promise.then((result)=> console.log(2)).catch((result)=> console.log(3))
+// const promise = new Promise((resolve, reject) => setTimeout(()=> {
+//     console.log(1);
+//     reject("2");
+// }, 1000)
+// );
+// promise.then((result)=> console.log(2)).catch((result)=> console.log(3))
