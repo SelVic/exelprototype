@@ -31,3 +31,4 @@
 // }, 1000)
 // );
 // promise.then((result)=> console.log(2)).catch((result)=> console.log(3))
+//
