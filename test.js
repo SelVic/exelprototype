@@ -25,9 +25,4 @@
 // b.join(' ')
 // console.log(b)
 
-// const promise = new Promise((resolve, reject) => setTimeout(()=> {
-//     console.log(1);
-//     reject("2");
-// }, 1000)
-// );
-// promise.then((result)=> console.log(2)).catch((result)=> console.log(3))
+
