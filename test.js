@@ -20,10 +20,7 @@
 // // const b = [...a.slice(0,5), 6, ...a.slice(5)]
 // // console.log(b)
 
-// const a = [1,2,3,4,5,5,4,3,2,1]
-// const b = new Set(a)
-// b.join(' ')
-// console.log(b)
+
 
 // const promise = new Promise((resolve, reject) => setTimeout(()=> {
 //     console.log(1);
