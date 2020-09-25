@@ -16,9 +16,7 @@
 
 // const object1 = {name:"Ivan",age:25}; const obj2 = object1; obj2.age +=5; console.log(object1.age)
 
-// const a= [1,2,3,4,5,6,7,8]
-// // const b = [...a.slice(0,5), 6, ...a.slice(5)]
-// // console.log(b)
+
 
 
 
