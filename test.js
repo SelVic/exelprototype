@@ -14,7 +14,6 @@
 // // a.forEach((el,ind)=> {el+=1})
 // // console.log(a)
 
-// const object1 = {name:"Ivan",age:25}; const obj2 = object1; obj2.age +=5; console.log(object1.age)
 
 
 
