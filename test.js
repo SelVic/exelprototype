@@ -15,10 +15,6 @@
 // // console.log(a)
 
 
-
-
-
-
 const promise = new Promise((resolve, reject) => setTimeout(()=> {
     console.log(1);
     reject("2");
